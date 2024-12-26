@@ -436,7 +436,7 @@
     <h1 class="text-2xl font-semibold font-poppins text-gray-800 mb-4 text-center">
      What Our Customers Says
     </h1>
-    <img src="1 (2).png" class="size-80">
+    <img src="{{ assets('storage/images/rating.png')}}" class="size-80">
    
    </div>
    <div class="w-full md:w-1/2">
