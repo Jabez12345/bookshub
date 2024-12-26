@@ -13,7 +13,6 @@
 
     <div class="bg-gradient-to-r from-blue-100 to-pink-100 py-20 " id="home" style="">
 
-
     <!-- Main Section -->
     <div class="container mx-auto mt-8 px-2 py-16 md:px-16 md:py-2">
         <div class="flex flex-col md:flex-row items-center gap-6">
