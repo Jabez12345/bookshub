@@ -252,6 +252,126 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
+<body>
+    <!-- Nav-->
+    <nav id="nav" class="w-full bg-transparent py-4 fixed top-0 z-50">
+        <div class="container mx-auto px-4 flex justify-between items-center">
+            <!-- Logo -->
+            <div class="text-2xl font-bold text-blue-600">
+                <a href="#" class="flex items-center gap-4"><img src="{{ asset('storage/images/logo.png')}}" class="w-6 h-6 rounded-full"> <span class="invisible md:visible">Bookshub</span></a>
+            </div>
+
+            <!-- Nav Links -->
+            <div class="hidden md:flex space-x-6 text-gray-700 font-semibold">
+                <a href="#home" class="hover:text-blue-600 font-poppins text-lg">Home</a>
+                <a href="#materials" class="hover:text-blue-600 font-poppins text-lg">Materials</a>
+                <a href="#about" class="hover:text-blue-600 font-poppins text-lg">About</a>
+                <a href="#blog" class="hover:text-blue-600 font-poppins text-lg">Blogs</a>
+                <a href="#contact-but" class="hover:text-blue-600 font-poppins text-lg">Contact</a>
+            </div>
+
+            <!-- Signup Button -->
+            <div class="hidden md:block">
+                <input type="search" name="search" id="search" class="mx-4 rounded-3xl ring-4 ring-blue-100 focus:ring-4 focus:ring-blue-300 outline-none px-6 py-2 bg-white" placeholder="e.g gst 111">
+
+                <button class="bg-blue-600 text-white py-2 px-6 rounded-2xl font-poppins font-bold hover:bg-transparent ring-2 hover:ring-4 hover:text-blue-600">
+                        Signup
+                    </button>
+            </div>
+
+<input type="search" name="search" id="search1" class="visible md:hidden relative right-8 rounded-3xl ring-4 ring-blue-100 focus:ring-4 focus:ring-blue-300 outline-none px-2 py-1 bg-white" placeholder="e.g gst 111">
+
+
+<!-------search drop down start------->
+<div id="overlay" class="fixed w-full h-full bg-[rgba(0,0,0,0.5)] top-0 left-0 hidden">
+
+    <div id="search-bar" class=" absolute top-[12%] left-0 md:left-[32%] bg-white shadow-lg rounded-lg w-full max-w-md hidden">
+   <div class="p-4 border-b border-gray-200">
+    <div class="relative">
+     <input class="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600" placeholder="Search documentation" type="text"/>
+     <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400">
+     </i>
+    </div>
+   </div>
+   <div class="p-4">
+    <h2 class="text-gray-500 text-sm mb-2">
+     Recent
+    </h2>
+    <ul>
+     <li class="mb-2">
+      <a class="p-3 bg-blue-600 text-white rounded-lg flex justify-between items-center" href="#">
+       <span>
+        Chem 201
+       </span>
+       <i class="fas fa-chevron-right">
+       </i>
+      </a>
+     </li>
+     <li class="mb-2">
+      <a class="p-3 bg-gray-100 text-gray-800 rounded-lg flex justify-between items-center" href="#">
+       <span>
+        Gst 122
+       </span>
+       <i class="fas fa-chevron-right">
+       </i>
+      </a>
+     </li>
+     <li class="mb-2">
+      <a class="p-3 bg-gray-100 text-gray-800 rounded-lg flex justify-between items-center" href="#">
+       <span>
+        Mth 211
+       </span>
+       <span class="text-gray-500 text-sm">
+        science
+       </span>
+       <i class="fas fa-chevron-right">
+       </i>
+      </a>
+     </li>
+     <li>
+      <a class="p-3 bg-gray-100 text-gray-800 rounded-lg flex justify-between items-center" href="#">
+       <span>
+        Bio 102
+       </span>
+       <span class="text-gray-500 text-sm">
+        science
+       </span>
+       <i class="fas fa-chevron-right">
+       </i>
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="p-4 border-t border-gray-200 text-right">
+   
+   </div>
+  </div>
+ </div>
+<!-------search drop down end------->
+
+
+
+
+            <!-- Mobile Menu Icon -->
+            <div class="md:hidden flex items-center">
+                <button id="mobile-menu-toggle">
+                    <svg class="w-8 h-8 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu (hidden by default) -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white shadow-md">
+            <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-100">Home</a>
+            <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-100">Materials</a>
+            <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-100">About</a>
+            <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-100">Blogs</a>
+            <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-100">Contact</a>
+        </div>
+    </nav>
+    
 {{ $slut }}
 
 <div id="animation"></div>
