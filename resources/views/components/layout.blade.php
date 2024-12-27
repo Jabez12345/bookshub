@@ -282,7 +282,7 @@
 
 
 <!-------search drop down start------->
-<div id="overlay" class="fixed w-full h-full bg-[rgba(0,0,0,0.5)] top-0 left-1/2 hidden">
+<div id="overlay" class="fixed w-full h-full bg-[rgba(0,0,0,0.5)] top-0 left-0 md:left-1/3 hidden">
 
     <div id="search-bar" class=" absolute top-[12%] left-0 md:left-[32%] bg-white shadow-lg rounded-lg w-full max-w-md hidden">
    <div class="p-4 border-b border-gray-200">
