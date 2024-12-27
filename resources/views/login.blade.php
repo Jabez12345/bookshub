@@ -3,7 +3,7 @@
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     <title>
-        UI Social
+        Login
     </title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
@@ -34,13 +34,19 @@
       <h1 class="text-xl md:text-2xl text-gray-600 font-poppins font-semibold leading-tight mt-6 pb-4 text-center"><img src="like.gif" class="absolute top-0 right-[22%] size-16">Welcome Back!!<br> happy to see you again </h1>
 
       <form class="mt-6" action="#" method="POST">
+
         <div>
           <label class="block text-gray-900 font-poppins">Email Address</label>
           <input type="email" name="" id="" placeholder="Enter Email Address" class="peer w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" autofocus autocomplete required>
         </div>
-        <p class="mt-2 invisible peer-invalid:visible text-pink-600 text-sm">
-            Please provide a valid email address.
-          </p>
+
+        <label class="block">
+            <span class="block text-sm font-medium text-slate-700">Email</span>
+            <input type="email" class="peer w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" autofocus autocomplete required>
+            <p class="mt-2 invisible peer-invalid:visible text-pink-600 text-sm">
+              Please provide a valid email address.
+            </p>
+          </label>
 
         <div class="mt-4">
           <label class="block text-gray-900 font-poppins">Password</label>
