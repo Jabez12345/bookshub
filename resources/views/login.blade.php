@@ -23,10 +23,9 @@
 
   <div class="relative hidden lg:block w-full md:w-1/2 xl:w-2/4 h-screen">
 	<div class="absolute top-0 right-0 left-0 bottom-0 w-full h-full blur-sm bg-blue-200" style="background-image: url('ttps://storage.googleapis.com/a1aa/image/patwKVdRn1YmGBx9jts7x1NeDPXKpLYZmfPej9x7OAfTuioPB.jpg');"></div>
-    <img src="3d-mobile-phone-with-security-code-padlock.png" width="600" alt="" class="absolute w-full h-full object-contain z-4">
-  </div>
+    </div>
 
-  <div class="bg-white w-full md:max-w-md lg:max-w-full md:mx-auto md:mx-0 md:w-1/2 xl:w-1/3 h-screen px-6 lg:px-16 xl:px-12
+  <div class="bg-white w-full md:max-w-md lg:max-w-full md:mx-auto md:w-1/2 xl:w-1/3 h-screen px-6 py-6 lg:px-16 xl:px-12
         flex items-center justify-center">
 
     <div class="w-full h-100">
