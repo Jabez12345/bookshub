@@ -43,7 +43,7 @@
         <label class="block">
             <span class="block text-sm font-medium text-slate-700">Email</span>
             <input type="email" class="peer w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" autofocus autocomplete required>
-            <p class="mt-2 invisible peer-invalid:visible text-pink-600 text-sm">
+            <p class="mt-2 hidden peer-invalid:visible text-pink-600 text-sm">
               Please provide a valid email address.
             </p>
           </label>
