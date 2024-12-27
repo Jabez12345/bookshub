@@ -9,6 +9,8 @@
     <div class="bubble"></div>
     <div class="bubble"></div>
 
+  <!--==========================MAIN SECTION ==================================-->
+
     <div class="bg-gradient-to-r from-blue-100 to-pink-100 py-20 " id="home" style="">
 
     <!-- Main Section -->
@@ -24,7 +26,7 @@
                     <a href="#" class="text-blue-500">Upload and Share</a>
                     with other student in UNIMAID.
                 </p>
-                <!-- News Letter Sub -->
+                <!-- CTA BUTTONS -->
                 <div class="mt-8 flex gap-4">
                     <a href="login.html"><button class="bg-blue-600 text-white py-3 px-6 rounded-2xl font-poppins font-bold hover:bg-transparent ring-2 hover:ring-4 hover:text-blue-600">
                         Get Started
@@ -43,11 +45,11 @@
     </div>
 </div>
 
-
+<!--==========================MATERIALS SECTION ==================================-->
 
 <div id="materials" class="container flex flex-col gap-3 mx-auto p-6 pt-8 md:p-28">
 
-
+    <!-- Filter categories -->
     <div class="container mx-auto">
         <h1 class="text-2xl sm:text-3xl text-blue-600 font-bold mb-4 text-center font-poppins">Materials</h1>
         <div class="mb-4 text-center">
@@ -62,9 +64,6 @@
             <button class="border border-blue-600 text-blue-600 px-3 py-1 sm:px-4 sm:py-2 rounded-full font-poppins">Phys</button>
             <button class="border border-blue-600 text-blue-600 px-3 py-1 sm:px-4 sm:py-2 rounded-full font-poppins">Others</button>
         </div>
-        <!--div class="flex justify-end">
-            <button class="border border-[#1a374d] text-[#1a374d] px-3 py-1 sm:px-4 sm:py-2 rounded-full">Recommended <i class="fas fa-chevron-down ml-2"></i></button>
-        </div-->
     </div>
 
     <div class="container mx-auto py-8 main-book-container">
@@ -123,7 +122,7 @@
                     <button class="rounded-full w-10 h-10 bg-blue-300 flex justify-center items-center my-1"><span class="material-symbols-outlined">visibility</span></button>
                 </div>
             </div>
-            <!-- Book 5 -->
+            <!-- Book 6 -->
             <div class="text-center p-4 rounded-2xl relative book">
                 <img alt="Cover of Fahrenheit 451 by Ray Bradbury" class="rounded-2xl w-26 h-42 md:w-36 md:h-52 mx-auto contain" src="https://storage.googleapis.com/a1aa/image/m2SRtqEXxdKGEB5fgWYFpsjT2Cw16xdOEsMl7I5d1QBl0gzJA.jpg" width="100" style="aspect-ratio: 1/1.6;"/>
                 <h3 class="mt-2 text-sm font-semibold font-poppins">Fahrenheit 451</h3>
@@ -133,7 +132,7 @@
                     <button class="rounded-full w-10 h-10 bg-blue-300 flex justify-center items-center my-1"><span class="material-symbols-outlined">visibility</span></button>
                 </div>
             </div>
-            <!-- Book 5 -->
+            <!-- Book 7 -->
             <div class="text-center p-4 rounded-2xl relative book">
                 <img alt="Cover of Fahrenheit 451 by Ray Bradbury" class="rounded-2xl w-26 h-42 md:w-36 md:h-52 mx-auto contain" src="https://storage.googleapis.com/a1aa/image/m2SRtqEXxdKGEB5fgWYFpsjT2Cw16xdOEsMl7I5d1QBl0gzJA.jpg" width="100" style="aspect-ratio: 1/1.6;"/>
                 <h3 class="mt-2 text-sm font-semibold font-poppins">Fahrenheit 451</h3>
@@ -143,7 +142,7 @@
                     <button class="rounded-full w-10 h-10 bg-blue-300 flex justify-center items-center my-1"><span class="material-symbols-outlined">visibility</span></button>
                 </div>
             </div>
-            <!-- Book 5 -->
+            <!-- Book 8 -->
             <div class="text-center p-4 rounded-2xl relative book">
                 <img alt="Cover of Fahrenheit 451 by Ray Bradbury" class="rounded-2xl w-26 h-42 md:w-36 md:h-52 mx-auto contain" src="https://storage.googleapis.com/a1aa/image/m2SRtqEXxdKGEB5fgWYFpsjT2Cw16xdOEsMl7I5d1QBl0gzJA.jpg" width="100" style="aspect-ratio: 1/1.6;"/>
                 <h3 class="mt-2 text-sm font-semibold font-poppins">Fahrenheit 451</h3>
@@ -153,7 +152,7 @@
                     <button class="rounded-full w-10 h-10 bg-blue-300 flex justify-center items-center my-1"><span class="material-symbols-outlined">visibility</span></button>
                 </div>
             </div>
-            <!-- Book 5 -->
+            <!-- Book 9 -->
             <div class="text-center p-4 rounded-2xl relative book">
                 <img alt="Cover of Fahrenheit 451 by Ray Bradbury" class="rounded-2xl w-26 h-42 md:w-36 md:h-52 mx-auto contain" src="https://storage.googleapis.com/a1aa/image/m2SRtqEXxdKGEB5fgWYFpsjT2Cw16xdOEsMl7I5d1QBl0gzJA.jpg" width="100" style="aspect-ratio: 1/1.6;"/>
                 <h3 class="mt-2 text-sm font-semibold font-poppins">Fahrenheit 451</h3>
@@ -163,7 +162,7 @@
                     <button class="rounded-full w-10 h-10 bg-blue-300 flex justify-center items-center my-1"><span class="material-symbols-outlined">visibility</span></button>
                 </div>
             </div>
-            <!-- Book 5 -->
+            <!-- Book 10 -->
             <div class="text-center p-4 rounded-2xl relative book">
                 <img alt="Cover of Fahrenheit 451 by Ray Bradbury" class="rounded-2xl w-26 h-42 md:w-36 md:h-52 mx-auto contain" src="https://storage.googleapis.com/a1aa/image/m2SRtqEXxdKGEB5fgWYFpsjT2Cw16xdOEsMl7I5d1QBl0gzJA.jpg" width="100" style="aspect-ratio: 1/1.6;"/>
                 <h3 class="mt-2 text-sm font-semibold font-poppins">Fahrenheit 451</h3>
@@ -176,6 +175,7 @@
 
        </div>
 
+    <!-- Pagination -->   
     <div class="flex items-center justify-center space-x-2 mt-20">
         <button class="px-4 py-2 text-gray-500 bg-white border border-gray-300 rounded-md hover:bg-gray-50">
             &laquo; Previous
@@ -193,6 +193,7 @@
 
 </div>
 
+<!--==========================ABOUT US ==================================-->
 
 <div id="about" class="bg-white py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
@@ -253,76 +254,6 @@
 </div>
 
 
-<!--div class="flex flex-col md:flex-row gap-8 items-center w-full justify-center">
-        < First Box >
-        <div class="flex flex-col items-center justify-center w-36 h-24 text-gray-700 glassmorphism fade-in">
-            <i class="fas fa-user text-3xl"></i>
-            <span class="text-base mt-2">User</span>
-        </div>
-        < Line >
-        <div class="w-24 h-0.5 bg-gray-300 hidden md:block fade-in" style="animation-delay: 0.2s;"></div>
-        <!-- Second Box>
-        <div class="flex flex-col items-center justify-center w-36 h-24 text-gray-700 glassmorphism fade-in" style="animation-delay: 0.4s;">
-            <i class="fas fa-rocket text-3xl"></i>
-            <span class="text-base mt-2">Launch</span>
-        </div>
-        <Line >
-        <div class="w-24 h-0.5 bg-gray-300 hidden md:block fade-in" style="animation-delay: 0.6s;"></div>
-        <Third Box>
-        <div class="flex flex-col items-center justify-center w-36 h-24 text-gray-700 glassmorphism fade-in" style="animation-delay: 0.8s;">
-            <i class="fas fa-check text-3xl"></i>
-            <span class="text-base mt-2">Done</span>
-        </div>
-    </div-->
-
-
-
-
-<!--section class="mt-10 md:p-2">
-     <div class="text-center px-0 mb-8 md:px-4">
-        <div class="mb-4">
-            <span class="bg-blue-200 text-blue-700 py-1 px-3 rounded-full text-sm font-semibold">Our Services</span>
-        </div>
-        <h1 class="text-2xl font-bold text-gray-800 my-10">Discover how our educational materials upload service can help you.</h1>
-        <div class="flex flex-col md:flex-row justify-center space-y-6 md:space-y-0 md:space-x-6">
-            <div class="bg-white p-6 rounded-lg shadow-md w-full md:w-64">
-                <div class="flex justify-center mb-4">
-                    <div class="bg-blue-200 text-blue-700 p-3 rounded-full w-12 h-12">
-                        <i class="fas fa-upload"></i>
-                    </div>
-                </div>
-                <h2 class="text-lg font-semibold text-gray-800 mb-2">Easy Upload</h2>
-                <p class="text-gray-600 mb-4">Upload your educational materials with ease. Our platform supports various file formats and ensures quick uploads.</p>
-                
-            </div>
-            <div class="bg-blue-600 p-6 rounded-lg shadow-md w-full md:w-64">
-                <div class="flex justify-center mb-4">
-                    <div class="bg-white text-blue-600 p-3 rounded-full w-12 h-12">
-                        <i class="fas fa-shield-alt"></i>
-                    </div>
-                </div>
-                <h2 class="text-lg font-semibold text-white mb-2">Secure Storage</h2>
-                <p class="text-white mb-4">Your materials are stored securely with us. We prioritize your privacy and data protection.</p>
-               
-            </div>
-            <div class="bg-white p-6 rounded-lg shadow-md w-full md:w-64">
-                <div class="flex justify-center mb-4">
-                    <div class="bg-blue-200 text-blue-700 p-3 rounded-full w-12 h-12">
-                        <i class="fas fa-share-alt"></i>
-                    </div>
-                </div>
-                <h2 class="text-lg font-semibold text-gray-800 mb-2">Easy Sharing</h2>
-                <p class="text-gray-600 mb-4">Share your materials with students and colleagues effortlessly. Our platform makes sharing simple and efficient.</p>
-               
-            </div>
-        </div>
-    </div>
-
-
-</section-->
-
-
-
 <!--form>
   <label class="block">
     <span class="block text-sm font-medium text-slate-700">Email</span>
@@ -333,7 +264,7 @@
   </label>
 </form-->
 
-    
+<!--==========================ABOUT SERVICES SECTION ==================================-->    
 
 <section class="flex items-center justify-center min-h-screen bg-gradient-to-r from-blue-100 to-pink-100 rounded-2xl">
     <div class="glassmorphic p-8 max-w-5xl mx-auto">
@@ -401,6 +332,8 @@
     </section>
 
 
+<!--==========================CTA 2 SECTION ==================================-->
+
 <div class="p-2 mt-10 md:mt-0">
 <div class="neumorphic p-0 flex flex-col md:flex-row items-center mx-auto">
     <div class="md:w-1/2 mb-8 md:mb-0">
@@ -421,12 +354,16 @@
         </button>
       </div>
     </div>
+    <!-- CTA 2 image-->
     <div class="md:w-1/2">
       <img alt="Illustration of two people discussing a document" class="w-full h-auto" height="400" src="1.png" width="400"/>
     </div>
   </div>
 </div>
 
+
+
+<!--==========================TESTIMONIALS SECTION ==================================-->
 
 
   <div class="container mx-auto px-4 py-8 flex flex-col md:flex-row items-center mt-8">
@@ -476,35 +413,7 @@
    </div>
   </div>
 
-
-<!--section class="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:px-8">
-  <div class="absolute inset-0 -z-10 bg-[radial-gradient(45rem_50rem_at_top,theme(colors.indigo.100),white)] opacity-20"></div>
-  <div class="absolute inset-y-0 right-1/2 -z-10 mr-16 w-[200%] origin-bottom-left skew-x-[-30deg] bg-white shadow-xl shadow-indigo-600/10 ring-1 ring-indigo-50 sm:mr-28 lg:mr-0 xl:mr-16 xl:origin-center"></div>
-  <div class="mx-auto max-w-2xl lg:max-w-4xl">
-    <img class="mx-auto h-12" src="https://tailwindui.com/plus/img/logos/workcation-logo-indigo-600.svg" alt="">
-    <figure class="mt-10">
-      <blockquote class="text-center text-xl/8 font-semibold text-gray-900 sm:text-2xl/9">
-        <p>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”</p>
-      </blockquote>
-      <figcaption class="mt-10">
-        <img class="mx-auto size-10 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
-        <div class="mt-4 flex items-center justify-center space-x-3 text-base">
-          <div class="font-semibold text-gray-900">Judith Black</div>
-          <svg viewBox="0 0 2 2" width="3" height="3" aria-hidden="true" class="fill-gray-900">
-            <circle cx="1" cy="1" r="1" />
-          </svg>
-          <div class="text-gray-600">CEO of Workcation</div>
-        </div>
-      </figcaption>
-    </figure>
-  </div>
-</section-->
-
-
-
-
-
-
+<!--==========================BLOG SECTION ==================================-->
 
 
 <div id="blog" class="bg-white py-24 sm:py-32">
@@ -515,7 +424,9 @@
     </div>
     <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
 
+      <!--blog 1 -->
       <article class="relative flex max-w-xl flex-col items-start justify-between rounded-2xl p-0 md:p-4 hover:bg-gray-50">
+        <!--blog 1 image -->
         <div class="rounded-2xl w-full h-44 md:h-40">
             <img
                 alt=""
@@ -523,88 +434,93 @@
                 class="inset-0 h-full w-full object-cover rounded-2xl"
             />
         </div>
-    <div class="absolute top-1/3 left-6 w-4/5 flex justify-between bg-gray-600 rounded-2xl pr-2">
-        <a href="#" class="z-10 rounded-full bg-gray-50 px-3 py-1.5 text-xs font-poppins font-bold text-gray-600 hover:bg-gray-100">Study Tips</a>
-        <div class="flex items-center gap-x-4 text-xs font-poppins">
-            <time datetime="2020-03-16" class="text-white flex gap-2"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1765/icon-calendar.svg"> Dec 16, 2024</time>
-        </div>
-    </div>
-    
-    <div class="group relative mt-3">
-      <h3 class="text-sm font-semibold text-gray-900 group-hover:text-gray-600">
-        <a href="#">
-        <h3 class="font-poppins">How to study for exams</h3>
-        </a>
-      </h3>
-      <p class="mt-3 line-clamp-3 text-sm/6 text-gray-600 font-lato">Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.</p>
-    </div>
-    <div class="relative mt-3 flex items-center gap-x-4">
-      <img src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" class="h-14 w-14 md:size-8 rounded-full bg-gray-50">
-      <div class="text-sm/4">
-        <p class="font-semibold text-gray-900 font-lato">
-          <a href="#">
-            <span class="absolute inset-0"></span>
-            Jabez Lalai
-          </a>
-        </p>
-        <p class="text-gray-600 font-lato">CO-Founder/Developer</p>
-      </div>
-    </div>
-  </article>
 
-  <article class="relative flex max-w-xl flex-col items-start justify-between rounded-2xl p-0 md:p-4 hover:bg-gray-50">
-    <div class="rounded-2xl w-full h-44 md:h-40">
-        <img
-            alt=""
-            src="https://images.unsplash.com/photo-1631451095765-2c91616fc9e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-            class="inset-0 h-full w-full object-cover rounded-2xl"
-        />
-    </div>
-<div class="absolute top-1/3 left-6 w-4/5 flex justify-between bg-gray-600 rounded-2xl pr-2">
-    <a href="#" class="z-10 rounded-full bg-gray-50 px-3 py-1.5 text-xs font-poppins font-bold text-gray-600 hover:bg-gray-100">Programming</a>
-    <div class="flex items-center gap-x-4 text-xs font-poppins">
-        <time datetime="2020-03-16" class="text-white flex gap-2"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1765/icon-calendar.svg"> Dec 16, 2024</time>
-    </div>
-</div>
-
-<div class="group relative mt-3">
-  <h3 class="text-sm font-semibold text-gray-900 group-hover:text-gray-600">
-    <a href="#">
-    <h3 class="font-poppins">Programming For beginners: A step to be ahead</h3>
-    </a>
-  </h3>
-  <p class="mt-3 line-clamp-3 text-sm/6 text-gray-600 font-lato">Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.</p>
-</div>
-<div class="relative mt-3 flex items-center gap-x-4">
-  <img src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" class="h-14 w-14 md:size-8 rounded-full bg-gray-50">
-  <div class="text-sm/4">
-    <p class="font-semibold text-gray-900 font-lato">
-      <a href="#">
-        <span class="absolute inset-0"></span>
-        John Doe
-      </a>
-    </p>
-    <p class="text-gray-600 font-lato">Co-Founder/Marketer</p>
-  </div>
-</div>
-</article>
-
-
-      <article class="relative flex max-w-xl flex-col items-start justify-between rounded-2xl p-4 md:p-4 hover:bg-gray-50">
-            <div class="rounded-2xl w-full h-44 md:h-40">
-                <img
-                    alt=""
-                    src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
-                    class="inset-0 h-full w-full object-cover rounded-2xl"
-                />
+        <div class="absolute top-1/3 left-6 w-4/5 flex justify-between bg-gray-600 rounded-2xl pr-2">
+            <a href="#" class="z-10 rounded-full bg-gray-50 px-3 py-1.5 text-xs font-poppins font-bold text-gray-600 hover:bg-gray-100">Study Tips</a>
+            <div class="flex items-center gap-x-4 text-xs font-poppins">
+                <time datetime="2020-03-16" class="text-white flex gap-2"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1765/icon-calendar.svg"> Dec 16, 2024</time>
             </div>
+        </div>
+        <!--blog 1 content -->
+        <div class="group relative mt-3">
+          <h3 class="text-sm font-semibold text-gray-900 group-hover:text-gray-600">
+            <a href="#">
+            <h3 class="font-poppins">How to study for exams</h3>
+            </a>
+          </h3>
+          <p class="mt-3 line-clamp-3 text-sm/6 text-gray-600 font-lato">Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.</p>
+        </div>
+        <div class="relative mt-3 flex items-center gap-x-4">
+          <img src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" class="h-14 w-14 md:size-8 rounded-full bg-gray-50">
+          <div class="text-sm/4">
+            <p class="font-semibold text-gray-900 font-lato">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                Jabez Lalai
+              </a>
+            </p>
+            <p class="text-gray-600 font-lato">CO-Founder/Developer</p>
+          </div>
+        </div>
+      </article>
+
+      <!--blog 2 -->
+
+      <article class="relative flex max-w-xl flex-col items-start justify-between rounded-2xl p-0 md:p-4 hover:bg-gray-50">
+        <!--blog 2 image-->
+        <div class="rounded-2xl w-full h-44 md:h-40">
+            <img
+                alt=""
+                src="https://images.unsplash.com/photo-1631451095765-2c91616fc9e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                class="inset-0 h-full w-full object-cover rounded-2xl"
+            />
+        </div>
+        <div class="absolute top-1/3 left-6 w-4/5 flex justify-between bg-gray-600 rounded-2xl pr-2">
+            <a href="#" class="z-10 rounded-full bg-gray-50 px-3 py-1.5 text-xs font-poppins font-bold text-gray-600 hover:bg-gray-100">Programming</a>
+            <div class="flex items-center gap-x-4 text-xs font-poppins">
+                <time datetime="2020-03-16" class="text-white flex gap-2"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1765/icon-calendar.svg"> Dec 16, 2024</time>
+            </div>
+        </div>
+        <!-- blog 2 content -->
+        <div class="group relative mt-3">
+          <h3 class="text-sm font-semibold text-gray-900 group-hover:text-gray-600">
+            <a href="#">
+            <h3 class="font-poppins">Programming For beginners: A step to be ahead</h3>
+            </a>
+          </h3>
+          <p class="mt-3 line-clamp-3 text-sm/6 text-gray-600 font-lato">Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.</p>
+        </div>
+        <div class="relative mt-3 flex items-center gap-x-4">
+          <img src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" class="h-14 w-14 md:size-8 rounded-full bg-gray-50">
+          <div class="text-sm/4">
+            <p class="font-semibold text-gray-900 font-lato">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                John Doe
+              </a>
+            </p>
+            <p class="text-gray-600 font-lato">Co-Founder/Marketer</p>
+          </div>
+        </div>
+      </article>
+
+      <!--blog 3 -->
+      <article class="relative flex max-w-xl flex-col items-start justify-between rounded-2xl p-4 md:p-4 hover:bg-gray-50">
+        <!--blog 3 image -->
+        <div class="rounded-2xl w-full h-44 md:h-40">
+            <img
+              alt=""
+              src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+              class="inset-0 h-full w-full object-cover rounded-2xl"
+            />
+        </div>
         <div class="absolute top-1/3 left-6 w-4/5 flex justify-between bg-gray-600 rounded-2xl pr-2">
             <a href="#" class="z-10 rounded-full bg-gray-50 px-3 py-1.5 text-xs font-poppins font-bold text-gray-600 hover:bg-gray-100">Marketing</a>
             <div class="flex items-center gap-x-4 text-xs font-poppins">
                 <time datetime="2020-03-16" class="text-white flex gap-2"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1765/icon-calendar.svg"> Dec 16, 2024</time>
             </div>
         </div>
-        
+        <!--blog 3 content -->
         <div class="group relative mt-3">
           <h3 class="text-sm font-semibold text-gray-900 group-hover:text-gray-600">
             <a href="#">
@@ -632,101 +548,9 @@
     </div>
   </div>
 </div>
-
-
-
-<!--div class="bg-white py-24 sm:py-32">
-  <div class="mx-auto max-w-7xl px-6 lg:px-8">
-    <div class="mx-auto lg:mx-0 text-center">
-      <h2 class="text-pretty text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl">From the blog</h2>
-      <p class="mt-2 text-lg/8 text-gray-600">Learn how to grow your business with our expert advice.</p>
-    </div>
-    <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-
-<article class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg">
-  <img
-    alt=""
-    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
-    class="absolute inset-0 h-full w-full object-cover"
-  />
-
-  <div class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64">
-    <div class="p-4 sm:p-6">
-      <time datetime="2022-10-10" class="block text-xs text-white/90"> 10th Oct 2022 </time>
-
-      <a href="#">
-        <h3 class="mt-0.5 text-lg text-white">How to position your furniture for positivity</h3>
-      </a>
-
-      <p class="mt-2 line-clamp-3 text-sm/relaxed text-white/95">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
-        pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-        quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius
-        atque dignissimos. Molestias explicabo corporis voluptatem?
-      </p>
-    </div>
-  </div>
-</article>
-
-<article class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg">
-  <img
-    alt=""
-    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
-    class="absolute inset-0 h-full w-full object-cover"
-  />
-
-  <div class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64">
-    <div class="p-4 sm:p-6">
-      <time datetime="2022-10-10" class="block text-xs text-white/90"> 10th Oct 2022 </time>
-
-      <a href="#">
-        <h3 class="mt-0.5 text-lg text-white">How to position your furniture for positivity</h3>
-      </a>
-
-      <p class="mt-2 line-clamp-3 text-sm/relaxed text-white/95">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
-        pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-        quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius
-        atque dignissimos. Molestias explicabo corporis voluptatem?
-      </p>
-    </div>
-  </div>
-</article>
-
-
-
-
-<article class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg">
-  <img
-    alt=""
-    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
-    class="absolute inset-0 h-full w-full object-cover"
-  />
-
-  <div class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64">
-    <div class="p-4 sm:p-6">
-      <time datetime="2022-10-10" class="block text-xs text-white/90"> 10th Oct 2022 </time>
-
-      <a href="#">
-        <h3 class="mt-0.5 text-lg text-white">How to position your furniture for positivity</h3>
-      </a>
-
-      <p class="mt-2 line-clamp-3 text-sm/relaxed text-white/95">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
-        pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-        quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius
-        atque dignissimos. Molestias explicabo corporis voluptatem?
-      </p>
-    </div>
-  </div>
-</article>
-
-
 </div>
-</div>
-</div-->
 
-</div>
+<!--==========================FOOTER ==================================-->
 
 <footer class="px-16 border border-t border-gray-200">
   <div class="mx-auto max-w-screen-xl space-y-8 px-4 py-16 sm:px-6 lg:space-y-16 lg:px-8">
@@ -926,6 +750,8 @@
   </div>
 </footer>
 
+<!--==========================CONTACT FORM (Popup) ==========================-->
+
 <div id="contact-form" class="w-full h-full fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-[rgba(0,0,0,0.1)] z-50">
 <div  class=" bg-white p-6 rounded shadow-lg w-full top-1/4 md:w-1/3 transform md:translate-x-3/4 md:translate-y-1/4">
     <button id="close-btn" class="text-gray-700 hover:text-red-600 font-bold text-xl absolute top-2 right-2" onclick="closeForm()">X</button>
@@ -952,15 +778,12 @@
         <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
             Submit
         </button>
-    </form>
-  <a href="https://fabform.io" target="_blank" id="powered-by" class="text-gray-700 hover:text-blue-500">
-    Powered By FabForm.io
-</a>
+      </form>
 </div>
 </div>
 
 
-
+<!--Popup Message buttton  -->
 <button id="open-popup-btn">
     <i id="popup-icon" class="fas fa-comment"></i>
 </button>
