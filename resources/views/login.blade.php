@@ -40,16 +40,20 @@
           <input type="email" name="" id="" placeholder="Enter Email Address" class="peer w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" autofocus autocomplete required>
         </div>
 
-        <label class="block">
-            <span class="block text-sm font-medium text-slate-700">Email</span>
-            <input type="email" 
-                   class="peer w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" 
-                   autofocus autocomplete="off" required>
-            <p class="mt-2 hidden peer-invalid:visible text-pink-600 text-sm">
-                Please provide a valid email address.
-            </p>
-        </label>
-        
+       
+
+  <label class="block">
+    <span class="block text-sm font-medium text-slate-700">Email</span>
+    <input 
+      type="email" 
+      class="peer w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" 
+      autocomplete="off" 
+      required>
+    <p class="mt-2 hidden peer-invalid:visible text-pink-600 text-sm">
+      Please provide a valid email address.
+    </p>
+  </label>
+
 
         <div class="mt-4">
           <label class="block text-gray-900 font-poppins">Password</label>
