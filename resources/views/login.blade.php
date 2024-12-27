@@ -36,8 +36,11 @@
       <form class="mt-6" action="#" method="POST">
         <div>
           <label class="block text-gray-900 font-poppins">Email Address</label>
-          <input type="email" name="" id="" placeholder="Enter Email Address" class="w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" autofocus autocomplete required>
+          <input type="email" name="" id="" placeholder="Enter Email Address" class="peer w-full px-4 py-4 rounded-3xl bg-white mt-2 border-4 border-gray-300 focus:ring-4 focus:ring-blue-300 focus:outline-none font-lato" autofocus autocomplete required>
         </div>
+        <p class="mt-2 invisible peer-invalid:visible text-pink-600 text-sm">
+            Please provide a valid email address.
+          </p>
 
         <div class="mt-4">
           <label class="block text-gray-900 font-poppins">Password</label>
