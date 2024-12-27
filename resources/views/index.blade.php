@@ -1,8 +1,4 @@
-<x-layout>
-    <!--x-slot:heading>
-        home
-    </x-slot:heading-->
-
+<x-layout>  
     <div class="bubble"></div>
     <div class="bubble"></div>
     <div class="bubble"></div>
