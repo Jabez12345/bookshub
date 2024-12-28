@@ -35,7 +35,7 @@
 
             <!-- Image Section -->
             <div id="hero" class=" md:w-2/5 h-full relative">
-                <img src="{{ Storage::url('images/hero-image.png') }}" alt="student reading" class="w-full h-full z-50">
+                <img src="{{ asset('images/hero-image.png') }}" alt="student reading" class="w-full h-full z-50">
             </div>
         </div>
     </div>
@@ -352,7 +352,7 @@
     </div>
     <!-- CTA 2 image-->
     <div class="md:w-1/2">
-      <img alt="Illustration of two people discussing a document" class="w-full h-auto" height="400" src="{{ Storage::url('images/productivity.png')}}" width="400"/>
+      <img alt="Illustration of two people discussing a document" class="w-full h-auto" height="400" src="{{ asset('images/productivity.png')}}" width="400"/>
     </div>
   </div>
 </div>
@@ -367,7 +367,7 @@
     <h1 class="text-2xl font-semibold font-poppins text-gray-800 mb-4 text-center">
      What Our Customers Says
     </h1>
-    <img src="{{ Storage::url('images/rating.png') }}" class="size-80">
+    <img src="{{ asset('images/rating.png') }}" class="size-80">
    
    </div>
    <div class="w-full md:w-1/2">

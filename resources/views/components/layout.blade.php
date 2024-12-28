@@ -262,11 +262,11 @@
 
             <!-- Nav Links -->
             <div class="hidden md:flex space-x-6 text-gray-700 font-semibold">
-                <a href="#home" class="hover:text-blue-600 font-poppins text-lg">Home</a>
-                <a href="#materials" class="hover:text-blue-600 font-poppins text-lg">Materials</a>
-                <a href="#about" class="hover:text-blue-600 font-poppins text-lg">About</a>
-                <a href="#blog" class="hover:text-blue-600 font-poppins text-lg">Blogs</a>
-                <a href="#contact-but" class="hover:text-blue-600 font-poppins text-lg">Contact</a>
+                <a href="#home" class="hover:text-blue-600 font-poppins text-sm">Home</a>
+                <a href="#materials" class="hover:text-blue-600 font-poppins text-sm">Materials</a>
+                <a href="#about" class="hover:text-blue-600 font-poppins text-sm">About</a>
+                <a href="#blog" class="hover:text-blue-600 font-poppins text-sm">Blogs</a>
+                <a href="#contact-but" class="hover:text-blue-600 font-poppins text-sm">Contact</a>
             </div>
 
             <!-- Signup Button -->
@@ -282,9 +282,9 @@
 
 
 <!-------search drop down start------->
-<div id="overlay" class="fixed w-full h-full bg-[rgba(0,0,0,0.5)] top-0 md:top-[10rem] left-0 md:left-1/3 hidden">
+<div id="overlay" class="fixed w-full h-full top-0 md:top-[10rem] left-0 md:left-0 hidden" style="background: rgba(0,0,0,0.5);">
 
-    <div id="search-bar" class=" absolute top-[12%] left-0 md:left-[32%] bg-white shadow-lg rounded-lg w-full max-w-md hidden">
+    <div id="search-bar" class=" absolute top-0 md:top-1/4 left-0 md:left-1/3 bg-white shadow-lg rounded-lg w-full max-w-md hidden">
    <div class="p-4 border-b border-gray-200">
     <div class="relative">
      <input class="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600" placeholder="Search documentation" type="text"/>
