@@ -273,9 +273,9 @@
             <div class="hidden md:block">
                 <input type="search" name="search" id="search" class="mx-4 rounded-3xl ring-4 ring-blue-100 focus:ring-4 focus:ring-blue-300 outline-none px-6 py-2 bg-white" placeholder="e.g gst 111">
 
-                <button class="bg-blue-600 text-white py-2 px-6 rounded-2xl font-poppins font-bold hover:bg-transparent ring-2 hover:ring-4 hover:text-blue-600">
-                        Signup
-                    </button>
+               <a href="/login"><button class="bg-blue-600 text-white py-2 px-6 rounded-2xl font-poppins font-bold hover:bg-transparent ring-2 hover:ring-4 hover:text-blue-600">
+                        Login
+                    </a></button>
             </div>
 
 <input type="search" name="search" id="search1" class="visible md:hidden relative right-8 rounded-3xl ring-4 ring-blue-100 focus:ring-4 focus:ring-blue-300 outline-none px-2 py-1 bg-white" placeholder="e.g gst 111">

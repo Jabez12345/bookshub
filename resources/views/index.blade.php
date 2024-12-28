@@ -24,7 +24,7 @@
                 </p>
                 <!-- CTA BUTTONS -->
                 <div class="mt-8 flex gap-4">
-                    <a href="/login"><button class="bg-blue-600 text-white py-3 px-6 rounded-2xl font-poppins font-bold hover:bg-transparent ring-2 hover:ring-4 hover:text-blue-600">
+                    <a href="/signup"><button class="bg-blue-600 text-white py-3 px-6 rounded-2xl font-poppins font-bold hover:bg-transparent ring-2 hover:ring-4 hover:text-blue-600">
                         Get Started
                     </button></a>
                     <button class="bg-transparent py-3 px-6 rounded-2xl text-blue-600 font-bold  font-poppins border-2 border-blue-200 hover:border-blue-600">
