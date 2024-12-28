@@ -25,7 +25,7 @@
 	<div class="fixed w-1/2 h-full bg-blue-200 rounded-2xl m-2" style="background-image: url('https://storage.googleapis.com/a1aa/image/patwKVdRn1YmGBx9jts7x1NeDPXKpLYZmfPej9x7OAfTuioPB.jpg');"></div>
     </div>
 
-  <div class="bg-white w-full md:max-w-md lg:max-w-full md:mx-auto md:w-1/2 xl:w-1/3 h-screen px-4 py-6 lg:px-16 xl:px-12
+  <div class="bg-white w-full md:max-w-md lg:max-w-full md:mx-auto md:w-1/2 xl:w-1/3 h-screen px-10 py-6 lg:px-16 xl:px-12
         flex items-center justify-center">
 
     <div class="w-full h-full">
@@ -75,7 +75,7 @@
             </div>
           </button>
 
-      <p class="mt-8 text-center text-sm">Have an account? <a href="/login" class="text-blue-500 hover:text-blue-700 font-semibold">Login</a></p>
+      <p class="mt-8 text-center text-sm">Have an account? <a href="/login" class="text-blue-500 hover:text-blue-700 font-semibold">Login</a><a href="/alt">alt-login</a></p>
 
 
     </div>
