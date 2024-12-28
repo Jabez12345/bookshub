@@ -14,6 +14,6 @@ Route::get('signup', function () {
     return view('signup');
 });
 
-Route::get('alt', function () {
+Route::get('/alt', function () {
     return view('alt');
 });
