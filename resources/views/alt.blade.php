@@ -59,7 +59,7 @@
                     </div>
                     <div class="flex items-center text-white">
                         <i class="fas fa-truck mr-2"></i>
-                        Free delivery London area
+                        Fast uplaod
                     </div>
                 </div>
             </div>
